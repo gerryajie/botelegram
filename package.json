@@ -1,0 +1,17 @@
+{
+  "name": "bottelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bot": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "moment": "^2.30.1",
+    "node-telegram-bot-api": "^0.64.0"
+  }
+}
